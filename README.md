@@ -1,6 +1,23 @@
-# MyFirstApp
+# My Recipe Book APP
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+
+This Application is completely build using the tech stack Angular, firebase authentication, firebase hosting.
+
+## Features Of Application
+we can add our recipes with image, description, ingredients required along with the amount of units you required and also you can add the required ingredients to shopping list,
+
+Had a feature of editing and deleting the recipes,
+
+You can also delete or edit the shopping list,
+
+Used angular interceptors concept for authentication using firebase 
+
+Used guards concepts in angular for checking the routing in angular whether authentication is done
+
+AutoLogin feature
+
+AutoLogout feature
 
 ## Development server
 
